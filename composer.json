@@ -1,0 +1,14 @@
+{
+    "name": "wjdnw/demo",
+    "description": "test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gogs",
+            "email": "gogs@fake.local"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
